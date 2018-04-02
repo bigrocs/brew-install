@@ -4,7 +4,7 @@
 
 ## Install Homebrew
 ```bash
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/bigrocs/brew-install/master/install)"
 ```
 
 More installation information and options at http://docs.brew.sh/Installation.html.
