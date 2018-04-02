@@ -1,3 +1,6 @@
+适用于中国大陆安装
+使用清华大学开源软件镜像站
+https://mirrors.tuna.tsinghua.edu.cn
 # Homebrew (un)installer
 
 [![Build Status](https://travis-ci.org/Homebrew/install.svg?branch=master)](https://travis-ci.org/Homebrew/install)
